@@ -9,9 +9,7 @@ for revers i just create a funtion named reverse . ok lets here is the solution 
 
 
 #include <iostream>
- 
 #include <cstdio>
- 
 #include <cmath>
  
 using namespace std;
