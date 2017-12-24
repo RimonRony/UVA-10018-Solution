@@ -8,11 +8,11 @@ My solution hints::
 for revers i just create a funtion named reverse . ok lets here is the solution (C++) ::
 
 
-#include<iostream>
+#include <iostream>
  
-#include<cstdio>
+#include <cstdio>
  
-#include<cmath>
+#include <cmath>
  
 using namespace std;
 
