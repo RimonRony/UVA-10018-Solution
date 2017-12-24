@@ -1,9 +1,12 @@
 ##UVA 10018 :: REVERS AND ADD
+
 [What is the concept of the problem =:
  Here , you have to choose a number , then find out the reverse of the number . If the choosen number is same to the revers number then it is the palindrom number. So thats why , if the number is not palindrom first time , then you have to add the number with the revers of it which is number+revers . And doing it until you get the palindrom. ]
  
 My solution hints::
+
 for revers i just create a funtion named reverse . ok lets here is the solution (C++) ::
+
 
 #include<iostream>
  
